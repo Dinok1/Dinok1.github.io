@@ -1,0 +1,88 @@
+body {
+    background-image: url('viz2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#viz {
+    text-align: center;
+    color: blue;
+    font-size: 70px;
+}
+
+#vedelem {
+    color: orange;
+    font-size: 40px;
+}
+
+.div1 {
+    border: 5px outset rgb(9, 84, 84);
+    background-color: lightblue;    
+    text-align: center;
+}
+
+#szoveg1 {
+    color: cyan;
+    background-color: black;
+    width: auto;
+    font-size: x-large;
+}
+
+#szennyviz {
+    color: orange;
+    font-size: 40px;
+}
+
+#szoveg2 {
+    color: cyan;
+    background-color: black;
+    width: auto;
+    font-size: x-large;
+}
+
+.div3 {
+    color: cyan;    
+    text-align: center; 
+    font-size: x-large;
+}
+
+#tanacs {
+    color: cyan;
+    font-size: 40px;
+    text-align: center;
+    background-color: black;
+}
+
+#lista {
+    font-size: 30px;
+}
+
+.div4 {
+    color: cyan;    
+    text-align: left; 
+    font-size: x-large;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.div5 {
+    color:white;
+    text-align: center;
+    font-size: small;
+}
+
+#forras1 {
+    color: white;
+}
+
+#forras2 {
+    color: white;
+}
+
+#nev {
+    color: white;
+}
+
+#mikro {
+    color: cyan;
+}
